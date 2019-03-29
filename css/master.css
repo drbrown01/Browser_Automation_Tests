@@ -1,4 +1,16 @@
 *{
-  /* Best way to nomalize your CSS? */
-  
+    /* Best way to nomalize your CSS? */
+    padding: 0px;
+    margin: 0px;
+    
+
+}
+.container_full_page{
+
+  border:1px solid #ddd;
+  background-image: url(../src/img/Manners.jpeg) ;
+
+}
+.p{
+  color: red;
 }
